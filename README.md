@@ -1,4 +1,4 @@
-# umass-cics250-regex-game.github.io
+# Regular Expression Game
 
 This repository contains the source code for a Regular Expressions game, intended for use in the UMass Amherst CICS course COMPSCI 250. This project was created by Jackson Bibbens, Carter Luck, Ayesha Binte Mostofa, and Sribatscha Maharana as a course project for COMPSCI 879 in Fall 2025.
 
@@ -6,7 +6,7 @@ This repository contains the source code for a Regular Expressions game, intende
 
 ## 🕹️ How to Play
 
-The game is hosted online and accessible here: [umass-cics250-regex-game.github.io](https://umass-cics250-regex-game.github.io)
+The game is hosted online and accessible here: [https://ayeshathoi.github.io/umass-cics250-regex-game/](https://ayeshathoi.github.io/umass-cics250-regex-game/)
 
 - Begin with the Pre-Quiz to assess your current knowledge of regular expressions.
 - Play through 5 levels of the Password Game to practice and reinforce regex skills.
